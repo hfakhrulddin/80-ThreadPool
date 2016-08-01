@@ -1,0 +1,6 @@
+C:\Div\Origin\80-ThreadPool\ThreadPool\bin\Debug\ThreadPool.exe.config
+C:\Div\Origin\80-ThreadPool\ThreadPool\bin\Debug\ThreadPool.exe
+C:\Div\Origin\80-ThreadPool\ThreadPool\bin\Debug\ThreadPool.pdb
+C:\Div\Origin\80-ThreadPool\ThreadPool\obj\Debug\ThreadPoolG.csprojResolveAssemblyReference.cache
+C:\Div\Origin\80-ThreadPool\ThreadPool\obj\Debug\ThreadPool.exe
+C:\Div\Origin\80-ThreadPool\ThreadPool\obj\Debug\ThreadPool.pdb
