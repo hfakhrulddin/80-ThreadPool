@@ -10,6 +10,9 @@ namespace ThreadPoolG
         public static int Main(string[] args)
         {
             Console.WriteLine("Thread Pool Sample:");
+            Console.WriteLine("Thread will start soon !!!");
+
+
             bool W2K = false;
             int MaxCount = 10;  // Allow a total of 10 threads in the pool
                                 // Mark the event as unsignaled.
